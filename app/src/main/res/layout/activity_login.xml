@@ -18,8 +18,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="@string/Name" />
+        android:hint="@string/Name"
+        android:inputType="textEmailAddress" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -32,5 +32,10 @@
         android:ems="10"
         android:inputType="textPassword"
         android:hint="@string/password"/>
+
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:src="@drawable/flag-fr"/>-->
 
 </LinearLayout>
