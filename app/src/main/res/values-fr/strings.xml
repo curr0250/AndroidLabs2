@@ -3,4 +3,7 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Bonjour World!</string>
     <string name="ButtonText">Je suis une button!</string>
+    <string name="Login">s\'identifier</string>
+    <string name="password">mot de passe</string>
+    <string name="Name">Nom</string>
 </resources>
