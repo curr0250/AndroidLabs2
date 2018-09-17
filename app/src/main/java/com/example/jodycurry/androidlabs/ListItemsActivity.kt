@@ -1,9 +1,10 @@
 package com.example.jodycurry.androidlabs
 
-import android.support.v7.app.AppCompatActivity
+
+import android.app.Activity
 import android.os.Bundle
 
-class ListItemsActivity : AppCompatActivity() {
+class ListItemsActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
